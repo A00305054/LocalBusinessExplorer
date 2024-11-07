@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035327714620",
+    "project_id": "localbusinessexplorer-a8f8d",
+    "storage_bucket": "localbusinessexplorer-a8f8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035327714620:android:c301a10815d9120e201a39",
+        "android_client_info": {
+          "package_name": "com.localbusinessexplorer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2edple2MfOhMkZTU8wW4N0Du8rXkqI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
