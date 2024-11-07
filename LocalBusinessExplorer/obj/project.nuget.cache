@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGP8p8NLt14=",
+  "dgSpecHash": "VNgif19m/o8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
+  "projectFilePath": "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankit\\.nuget\\packages\\firebase.auth\\1.0.0\\firebase.auth.1.0.0.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\firebase.database\\1.0.0\\firebase.database.1.0.0.nupkg.sha512",

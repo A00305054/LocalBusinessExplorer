@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj": {}
+    "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj": {
+    "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
         "projectName": "LocalBusinessExplorer",
-        "projectPath": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
+        "projectPath": "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
         "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\obj\\",
+        "outputPath": "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
