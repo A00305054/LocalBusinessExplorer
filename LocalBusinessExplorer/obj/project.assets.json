@@ -2910,6 +2910,30 @@
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -5966,6 +5990,30 @@
         },
         "build": {
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
+        }
+      },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
@@ -9026,6 +9074,30 @@
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -12082,6 +12154,30 @@
         },
         "build": {
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
+        }
+      },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
@@ -15142,6 +15238,30 @@
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -18200,6 +18320,30 @@
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -21256,6 +21400,30 @@
         },
         "build": {
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
+        }
+      },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
@@ -24346,6 +24514,30 @@
         },
         "build": {
           "buildTransitive/net8.0-android34.0/Xamarin.Google.Guava.ListenableFuture.targets": {}
+        }
+      },
+      "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.AndroidX.Collection": "1.4.3.1",
+          "Xamarin.AndroidX.Core": "1.13.1.5",
+          "Xamarin.AndroidX.Fragment": "1.8.3.1",
+          "Xamarin.Build.Download": "0.11.4",
+          "Xamarin.GooglePlayServices.Basement": "118.4.0.2",
+          "Xamarin.GooglePlayServices.Tasks": "118.2.0.2"
+        },
+        "compile": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
@@ -86460,6 +86652,25 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
+    "Xamarin.GooglePlayServices.Base/118.5.0.2": {
+      "sha512": "0AEDf+TKW7Q//HxyS/9RPuCk6fJfq0Js2iiLBkvumZfbe57gFNnkoJEQXNw8DTbJqjEEpHapjEAGzh3UoQGxeg==",
+      "type": "package",
+      "path": "xamarin.googleplayservices.base/118.5.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets",
+        "buildTransitive/net8.0-android34.0/Xamarin.GooglePlayServices.Base.targets",
+        "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.dll",
+        "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.pdb",
+        "lib/net8.0-android34.0/Xamarin.GooglePlayServices.Base.xml",
+        "lib/net8.0-android34.0/play-services-base.aar",
+        "proguard/proguard.txt",
+        "readme.md",
+        "xamarin.googleplayservices.base.118.5.0.2.nupkg.sha512",
+        "xamarin.googleplayservices.base.nuspec"
+      ]
+    },
     "Xamarin.GooglePlayServices.Basement/118.4.0.2": {
       "sha512": "UpwAhcBs2fdveLwMbazNJ+zrMwyeiE9KwKl+aaim81/FtUZLEuYgmli+7psP1DtyxUKlJvNEllRKdA9V3AF7iw==",
       "type": "package",
@@ -86680,7 +86891,8 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.10",
-      "Xamarin.Firebase.Common >= 121.0.0.2"
+      "Xamarin.Firebase.Common >= 121.0.0.2",
+      "Xamarin.GooglePlayServices.Base >= 118.5.0.2"
     ],
     "net8.0-ios18.0": [
       "Firebase.Auth >= 1.0.0",
@@ -86801,6 +87013,10 @@
           "Xamarin.Firebase.Common": {
             "target": "Package",
             "version": "[121.0.0.2, )"
+          },
+          "Xamarin.GooglePlayServices.Base": {
+            "target": "Package",
+            "version": "[118.5.0.2, )"
           }
         },
         "imports": [

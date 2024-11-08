@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.Collections.Generic;
-using LocalBusinessExplorer.Models; // Adjust according to your project namespace
+using LocalBusinessExplorer.Models;
 
 namespace LocalBusinessExplorer.Services
 {

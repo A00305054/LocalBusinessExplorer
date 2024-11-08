@@ -95,6 +95,10 @@
             "Xamarin.Firebase.Common": {
               "target": "Package",
               "version": "[121.0.0.2, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[118.5.0.2, )"
             }
           },
           "imports": [

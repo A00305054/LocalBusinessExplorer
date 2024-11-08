@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VNgif19m/o8=",
+  "dgSpecHash": "FIN9/KG61Yg=",
   "success": true,
   "projectFilePath": "C:\\Users\\ankit\\Source\\Repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
   "expectedPackageFiles": [
@@ -232,6 +232,7 @@
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.google.crypto.tink.android\\1.10.0\\xamarin.google.crypto.tink.android.1.10.0.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.google.errorprone.annotations\\2.30.0.1\\xamarin.google.errorprone.annotations.2.30.0.1.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.24\\xamarin.google.guava.listenablefuture.1.0.0.24.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\xamarin.googleplayservices.base\\118.5.0.2\\xamarin.googleplayservices.base.118.5.0.2.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.googleplayservices.basement\\118.4.0.2\\xamarin.googleplayservices.basement.118.4.0.2.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.googleplayservices.tasks\\118.2.0.2\\xamarin.googleplayservices.tasks.118.2.0.2.nupkg.sha512",
     "C:\\Users\\ankit\\.nuget\\packages\\xamarin.javax.inject\\1.0.0.16\\xamarin.javax.inject.1.0.0.16.nupkg.sha512",
