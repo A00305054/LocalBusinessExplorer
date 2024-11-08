@@ -30,5 +30,8 @@
     <None Update="Views\LoginPage.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Update="Views\SignUpPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 </Project>
