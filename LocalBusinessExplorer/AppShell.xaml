@@ -8,8 +8,9 @@
     Title="LocalBusinessExplorer">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        <ShellContent Title="Home" ContentTemplate="{DataTemplate local:HomePage}" />
+        <ShellContent Title="Login" ContentTemplate="{DataTemplate local:LoginPage}" />
+        <ShellContent Title="Sign Up" ContentTemplate="{DataTemplate local:SignUpPage}" />
+
 
 </Shell>

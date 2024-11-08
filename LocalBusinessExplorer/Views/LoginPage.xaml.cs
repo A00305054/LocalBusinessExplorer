@@ -26,8 +26,8 @@ namespace LocalBusinessExplorer.Views
             if (success)
             {
                 await DisplayAlert("Success", "Login successful!", "OK");
-                // Navigate to the main page or home page
-                await Navigation.PushAsync(new HomePage());
+                // Navigate to HomePage
+                await Shell.Current.GoToAsync("//HomePage");
             }
             else
             {
@@ -37,14 +37,14 @@ namespace LocalBusinessExplorer.Views
 
         private async void OnSignUpButtonClicked(object sender, EventArgs e)
         {
-            // Navigate to the sign-up page or implement sign-up logic
-            await Navigation.PushAsync(new SignUpPage());
+            // Navigate to SignUpPage
+            await Shell.Current.GoToAsync("//SignUpPage");
         }
 
         private async Task<bool> LoginAsync(string email, string password)
         {
-            // Replace this with actual authentication logic (e.g., call Firebase Auth API)
-            return email == "test@example.com" && password == "password"; // Temporary check for demo purposes
+            // Replace with actual authentication logic
+            return email == "test@example.com" && password == "password"; // Demo only
         }
     }
 }
