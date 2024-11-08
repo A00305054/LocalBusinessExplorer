@@ -1,10 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LocalBusinessExplorer.Views.SignUpPage"
-             Title="Sign Up">
-    <StackLayout Padding="30" Spacing="20" VerticalOptions="CenterAndExpand">
-        <Entry Placeholder="Email" Keyboard="Email" />
-        <Entry Placeholder="Password" IsPassword="True" />
-        <Entry Placeholder="Confirm Password" IsPassword="True" />
-        <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" />
+             BackgroundColor="#F5F5F5">
+
+    <StackLayout Padding="20" Spacing="20" VerticalOptions="Center">
+
+        <!-- Illustration at the top -->
+        <Image Source="signup_illustration.png" HorizontalOptions="Center" HeightRequest="150" />
+
+        <!-- Page Title -->
+        <Label Text="Create a New Account"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="#333333" />
+
+        <!-- Form Fields -->
+        <Frame BackgroundColor="White" CornerRadius="8" Padding="10" HasShadow="True">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Image Source="user_icon.png" WidthRequest="24" HeightRequest="24"/>
+                <Entry Placeholder="Name" FontSize="16" TextColor="#333333"/>
+            </StackLayout>
+        </Frame>
+
+        <Frame BackgroundColor="White" CornerRadius="8" Padding="10" HasShadow="True">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Image Source="user_icon.png" WidthRequest="24" HeightRequest="24"/>
+                <Entry Placeholder="Username" FontSize="16" TextColor="#333333"/>
+            </StackLayout>
+        </Frame>
+
+        <Frame BackgroundColor="White" CornerRadius="8" Padding="10" HasShadow="True">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Image Source="email_icon.png" WidthRequest="24" HeightRequest="24"/>
+                <Entry Placeholder="Enter Email" FontSize="16" TextColor="#333333" Keyboard="Email"/>
+            </StackLayout>
+        </Frame>
+
+        <Frame BackgroundColor="White" CornerRadius="8" Padding="10" HasShadow="True">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Image Source="password_icon.png" WidthRequest="24" HeightRequest="24"/>
+                <Entry Placeholder="Enter Password" FontSize="16" TextColor="#333333" IsPassword="True"/>
+            </StackLayout>
+        </Frame>
+
+        <!-- Sign-Up Button -->
+        <Button Text="Sign-Up"
+                BackgroundColor="#7EC8C6"
+                TextColor="White"
+                CornerRadius="20"
+                FontSize="16"
+                HeightRequest="50"
+                HorizontalOptions="FillAndExpand"/>
+
     </StackLayout>
 </ContentPage>

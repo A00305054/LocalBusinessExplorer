@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalBusinessExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+51b29805ac001ef0cbbc49567f80e55a5e81983e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+312e36e32885fcb63f027d395e9c2441d32ed58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalBusinessExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalBusinessExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

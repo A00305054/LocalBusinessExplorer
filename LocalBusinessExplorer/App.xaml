@@ -1,11 +1,35 @@
-﻿<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-       xmlns:local="clr-namespace:LocalBusinessExplorer" 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="LocalBusinessExplorer.App">
+    
+    <!-- Application-wide resources -->
+    <Application.Resources>
+        <!-- Define colors -->
+        <Color x:Key="PrimaryColor">#7EC8C6</Color>
+        <Color x:Key="AccentColor">#F9A87E</Color>
+        <Color x:Key="TextColor">#333333</Color>
+        <Color x:Key="BackgroundColor">#F5F5F5</Color>
 
-    x:Class="LocalBusinessExplorer.AppShell">
+        <!-- Define font styles -->
+        <Style TargetType="Label">
+            <Setter Property="TextColor" Value="{StaticResource TextColor}" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
 
-    <!-- Define the routes for navigation -->
-    <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate local:LoginPage}" />
-    <ShellContent Route="HomePage" ContentTemplate="{DataTemplate local:HomePage}" />
-    <ShellContent Route="SignUpPage" ContentTemplate="{DataTemplate local:SignUpPage}" />
-</Shell>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="CornerRadius" Value="20" />
+            <Setter Property="HeightRequest" Value="50" />
+            <Setter Property="FontSize" Value="16" />
+        </Style>
+
+        <Style TargetType="Entry">
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="TextColor" Value="{StaticResource TextColor}" />
+        </Style>
+    </Application.Resources>
+
+</Application>
