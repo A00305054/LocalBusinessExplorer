@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Capstone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\localbusinessexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\localbusinessexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\ankit\\source\\repos\\localbusinessexplorer\\localbusinessexplorer\\services\\googleplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\localbusinessexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\localbusinessexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|c:\\users\\dell\\capstone\\localbusinessexplorer\\services\\googleplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E82739-2468-413D-91E9-2038761E923C}|LocalBusinessExplorer\\LocalBusinessExplorer.csproj|solutionrelative:localbusinessexplorer\\services\\googleplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,38 +70,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
               "RelativeToolTip": "LocalBusinessExplorer\\Platforms\\Windows\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T03:11:46.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\App.xaml.cs",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\App.xaml.cs",
               "RelativeToolTip": "LocalBusinessExplorer\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T03:08:05.217Z",
               "EditorCaption": ""
@@ -109,49 +105,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\AppShell.xaml",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\AppShell.xaml",
-              "RelativeToolTip": "LocalBusinessExplorer\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T01:28:40.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LocalBusinessExplorer.csproj",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
               "RelativeToolTip": "LocalBusinessExplorer\\LocalBusinessExplorer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-08T00:14:55.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\App.xaml",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\App.xaml",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\App.xaml",
-              "RelativeToolTip": "LocalBusinessExplorer\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T22:44:43.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "SignUpPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
               "RelativeToolTip": "LocalBusinessExplorer\\Views\\SignUpPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,63 +130,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SignUpPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\SignUpPage.xaml",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\SignUpPage.xaml",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\SignUpPage.xaml",
               "RelativeToolTip": "LocalBusinessExplorer\\Views\\SignUpPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-08T00:40:19.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\AppShell.xaml.cs",
-              "RelativeToolTip": "LocalBusinessExplorer\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:37:50.551Z",
+              "WhenOpened": "2024-11-08T00:38:46.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
-              "RelativeToolTip": "LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:48:17.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\HomePage.xaml",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\HomePage.xaml",
-              "RelativeToolTip": "LocalBusinessExplorer\\Views\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T00:48:06.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\LoginPage.xaml",
               "RelativeToolTip": "LocalBusinessExplorer\\Views\\LoginPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -225,55 +169,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\MauiProgram.cs",
-              "RelativeToolTip": "LocalBusinessExplorer\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:50:43.688Z",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\AppShell.xaml",
+              "RelativeToolTip": "LocalBusinessExplorer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T01:28:40.021Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\App.xaml",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\App.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\App.xaml",
+              "RelativeToolTip": "LocalBusinessExplorer\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T22:44:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\AppShell.xaml.cs",
+              "RelativeToolTip": "LocalBusinessExplorer\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:37:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "LocalBusinessExplorer\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:48:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Views\\HomePage.xaml",
+              "RelativeToolTip": "LocalBusinessExplorer\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T00:48:06.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\MauiProgram.cs",
+              "RelativeToolTip": "LocalBusinessExplorer\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:54:53.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T00:50:43.688Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "LocalBusinessExplorer\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "LocalBusinessExplorer\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:38:46.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T22:54:53.531Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "GooglePlaceService.cs",
-              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
               "RelativeDocumentMoniker": "LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
-              "ToolTip": "C:\\Users\\ankit\\source\\repos\\LocalBusinessExplorer\\LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Capstone\\LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
               "RelativeToolTip": "LocalBusinessExplorer\\Services\\GooglePlaceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:14:58.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T00:14:58.108Z"
             }
           ]
         }
